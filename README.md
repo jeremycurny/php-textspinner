@@ -3,6 +3,14 @@ textspinner
 
 TextSpinner
 
+# Installation
+
+Install the latest version with
+
+```bash
+$ composer require jeremycurny/textspinner
+```
+
 # Example
 
 ```php
